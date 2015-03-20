@@ -46,6 +46,7 @@
     <Compile Include="Monsters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XP_Storage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

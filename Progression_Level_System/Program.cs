@@ -12,8 +12,8 @@ namespace Progression_Level_System
     {
         static void Main(string[] args)
         {
-            Monsters ch = new Monsters();
-            ch.AddMonsters("Lulz", 1000);
+            XP_Storage xp = new XP_Storage();
+            xp.getExpFromMonster();
         }
     }
     #endregion

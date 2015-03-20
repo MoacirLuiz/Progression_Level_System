@@ -8,21 +8,14 @@ namespace Progression_Level_System
 {
     class Character
     {
-        public void CHARACTER_SPECS(string name, int level, double xp)
-        {
-            List<string> name_storage = new List<string>();
-            List<int> level_storage = new List<int>();     
-            List<double> xp_storage = new List<double>();
-        }
+        public string name;
+        public int level = 1;
+        public double xp = 0.0;
 
-        public void ATTRIBUTES(int strenght, int agility, int vitallity, int intelligence)
+        public void showCharacterInfo()
         {
-            List<int> str_attribute = new List<int>();
-            List<int> agi_attribute = new List<int>();
-            List<int> vit_attribute = new List<int>();
-            List<int> int_attribute = new List<int>();
+            Console.WriteLine("Name: {0}, Your Level: {1}, And XP: {2}", name, level, xp);
         }
-
     }
 
 }

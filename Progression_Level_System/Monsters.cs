@@ -9,12 +9,21 @@ namespace Progression_Level_System
     class Monsters
     {
         public Dictionary<string, int> Monsters_Inc = new Dictionary<string, int>();
-           
-        public void AddMonsters(string monsterName, int monsterXP)
+
+        public void addMonsters()
         {
             Monsters_Inc.Add("Rat", 10);
+            Monsters_Inc.Add("Skeleton", 30);
             Monsters_Inc.Add("Slime", 50);
-            Monsters_Inc.Add("Skeleton", 150);
+            Monsters_Inc.Add("Orc", 100);
+        }
+        public void showMonsters()
+        {
+            foreach (var key in Monsters_Inc)
+            {
+                Console.WriteLine("Name, Exp: {0}", key.ToString());
+            }
+
         }
     }
 }
