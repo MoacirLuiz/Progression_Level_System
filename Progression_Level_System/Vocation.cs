@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Progression_Level_System
 {
-    class Monsters
+    class Vocation
     {
-        public string monsterName;
-        public int HP;
-        public int MP;
+
     }
 }

@@ -4,3 +4,9 @@ C:\Users\m2\Desktop\Progression_Level_System\Progression_Level_System\bin\Debug\
 C:\Users\m2\Desktop\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.exe
 C:\Users\m2\Desktop\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.pdb
 C:\Users\m2\Desktop\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\bin\Debug\Progression_Level_System.exe.config
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.exe
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.pdb
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\bin\Debug\Progression_Level_System.exe
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\bin\Debug\Progression_Level_System.pdb
+C:\Users\Rodolfo\Desktop\Random_Project\Progression_Level_System\Progression_Level_System\Progression_Level_System\obj\Debug\Progression_Level_System.csprojResolveAssemblyReference.cache

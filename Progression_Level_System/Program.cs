@@ -12,8 +12,9 @@ namespace Progression_Level_System
     {
         static void Main(string[] args)
         {
-            XP_Storage xp = new XP_Storage();
-            xp.getExpFromMonster();
+            Character ch = new Character();
+            ch.getName();
+            ch.showCharacterInfo();
         }
     }
     #endregion

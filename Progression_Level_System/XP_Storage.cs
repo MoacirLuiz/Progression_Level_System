@@ -35,9 +35,8 @@ namespace Progression_Level_System
                     Console.WriteLine("You leveled up: {0}, {1}", ch.level, ch.xp);
                 }
             }
-            
-
         }
+
 
         public void attributesLevelUP()
         {
