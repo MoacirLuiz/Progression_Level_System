@@ -12,9 +12,9 @@ namespace Progression_Level_System
     {
         static void Main(string[] args)
         {
-            Character ch = new Character();
-            ch.getName();
-            ch.showCharacterInfo();
+            Vocation vc = new Vocation();
+            vc.addClass();
+            vc.showClasses();
         }
     }
     #endregion
