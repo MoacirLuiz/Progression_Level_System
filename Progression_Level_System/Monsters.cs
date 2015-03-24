@@ -8,8 +8,13 @@ namespace Progression_Level_System
 {
     class Monsters
     {
-        public string monsterName;
-        public int HP;
-        public int MP;
+        public Dictionary<string, int> Monsters_Inc = new Dictionary<string, int>();
+
+        public void addMonsters()
+        {
+            Monsters_Inc.Add("Rat", 10);
+            Monsters_Inc.Add("Skeleton", 50);
+            Monsters_Inc.Add("Mage", 100);
+        }
     }
 }
